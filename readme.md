@@ -4,7 +4,7 @@ Send Craft exceptions to Bugsnag with this tiny extension to Craft's error handl
 
 ## Installation
 
-1. Install with `composer require workingconcept/bugsnag-craft3`.
+1. Install with `composer require workingconcept/bugsnag-craft3 @dev`.
 2. Create config/app.php and add...  
 <pre>
     return [
