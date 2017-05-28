@@ -1,0 +1,21 @@
+{
+    "name": "workingconcept/bugsnag-craft3",
+    "description": "Bugsnag exception handler for Craft 3",
+    "version": "0.1.0",
+    "type": "craft-plugin",
+    "minimum-stability": "dev",
+    "require": {
+        "bugsnag/bugsnag": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "workingconcept\\bugsnag\\": "src/"
+        }
+    },
+    "extra": {
+        "handle": "bugsnag",
+        "name": "Bugsnag",
+        "developer": "Working Concept",
+        "developerUrl": "https://workingconcept.com"
+    }
+}
