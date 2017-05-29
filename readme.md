@@ -21,5 +21,5 @@ Send Craft exceptions to Bugsnag with this tiny extension to Craft's error handl
 
 ## Production Use
 
-Only if you live dangerously. I'm getting my feet wet with Craft 3 and this is my first stab at the plugin—it will probably need some revision before it's safe for your Mars mission. Please submit an issue, pull request, or [send me an email](mailto:hello@workingconcept.com) if you've found room for improvement!
+Only if you live dangerously. I'm getting my feet wet with Craft 3 and this is my first plugin. (And it's not even a plugin, it's a Yii component that extends Craft's ErrorHandler.) This thing will probably need revision before it's safe for your Mars mission. I'll gladly accept issues, pull requests, and [emails](mailto:hello@workingconcept.com) if you've found room for improvement!
 
