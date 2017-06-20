@@ -4,7 +4,7 @@ Send Craft exceptions to Bugsnag with this tiny extension to Craft's error handl
 
 ## Installation
 
-1. `composer require workingconcept/bugsnag-craft3`.
+1. `composer require workingconcept/bugsnag-craft3 @dev`.
 2. In the control panel, visit _Settings_ → _Plugins_, and install Bugsnag.
 3. Add the Bugsnag API key for your project in the plugin's settings.
 
